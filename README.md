@@ -1,6 +1,6 @@
 # ForgeX AI Studio
 
-**All-in-one Python-powered creative suite** for text, image, video, and music generation—built on **Gemini API + Local LLMs**. Designed for creators, developers, and entrepreneurs seeking a **market-ready, production-grade content engine**.
+**All-in-one Python-powered creative suite** for text, image, video, and music generation-built on **Gemini API + Local LLMs**. Designed for creators, developers, and entrepreneurs seeking a **market-ready, production-grade content engine**.
 
 ---
 
